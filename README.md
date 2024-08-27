@@ -9,7 +9,7 @@ This project focuses on extracting, cleaning, and analyzing data from the 1mg ho
 - [Surya Prakash Manubolu](https://github.com/suryaprakash-sp)
 - [Ghanshyam Jadhav](https://github.com/ghanshyamjadhav2125)
 - [Sofi Altamsh](https://github.com/sofialtamsh)
-- [Gayatri Tumsare](https://github.com/gayu47)
+- [Gayatri Tumsare](https://github.com/GayatriTumsare)
 - [Hashir Sheikh](https://github.com/hashir-sheikh-da)
 
 ## Key Objectives:
